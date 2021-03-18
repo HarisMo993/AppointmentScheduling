@@ -22,7 +22,7 @@ namespace AppointmentScheduling.Utility
             {
                 Resource = Send.Resource,
             }
-           .Property(Send.FromEmail, "harisagic@hotmail.com")
+           .Property(Send.FromEmail, "harisagic19@gmail.com")
            .Property(Send.FromName, "Appointment Scheduler")
            .Property(Send.Subject, subject)
            .Property(Send.HtmlPart, htmlMessage)
