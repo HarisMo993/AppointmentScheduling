@@ -1,2 +1,2 @@
-# AppointmentScheduling
-AppointmentScheduling with ASP.NET MVC 5.0 
+# Appointment Scheduling
+Appointment Scheduling an Application that works on  ASP.NET MVC 5.0 
